@@ -57,15 +57,15 @@ Elle permet de gérer la réservation de terrains de sport (ajout, édition, sup
 📁 Structure du projet
 
   fivearena/
-  ├── controllers/         → Logique des actions
-  ├── models/              → Requêtes SQL & logique métier
-  ├── views/               → Vues
+  ├── controllers/   → Logique des actions
+  ├── models/        → Requêtes SQL & logique métier
+  ├── views/         → Vues
   ├── public/
   │   ├── css/
   │   ├── js/
   │   ├── images/
-  ├── index.php            → Point d’entrée principal
-  └── fivearena.sql        → Base de données
+  ├── index.php      → Point d’entrée principal
+  └── fivearena.sql  → Base de données
 
 
 ✅ Fonctionnalités
